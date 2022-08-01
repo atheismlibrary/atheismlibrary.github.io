@@ -8,6 +8,11 @@ Hinduism has a huge number of books, from Vedas to Upanishads, smritis, shastras
 2. [Manusmriti](manusmriti.md)
 3. [Vishnu Purana](vishnupurana.md)
 
+## Topics
+
+1. [Sexism](sexism.md)
+2. [Varnas System](caste-system.md)
+
 ### Content Legitimacy
 
 All the texts have been directly sited from original sources and no religious hate is intented. If you find content is wrong or inaccurate, please report to the github page.
