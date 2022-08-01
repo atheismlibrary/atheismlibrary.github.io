@@ -12,6 +12,8 @@ Hinduism has a huge number of books, from Vedas to Upanishads, smritis, shastras
 
 1. [Sexism](sexism.md)
 2. [Varnas System](caste-system.md)
+3. [Child Marriage](child-marriage.md)
+4. [Intolerance](introlerance.md)
 
 ### Content Legitimacy
 
